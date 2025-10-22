@@ -11,7 +11,7 @@ Briefly explain your project idea and the problem it solves
 ## How the Solution Works
 Describe how your solution functions
 
-## Demo / Screenshots
+## Demo / s
 Add any images, GIFs or video links that show your project in action. 
 
 ## GitHub Repository Link
