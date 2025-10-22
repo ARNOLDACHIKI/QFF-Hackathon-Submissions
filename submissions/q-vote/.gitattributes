@@ -1,0 +1,2 @@
+*.png binary
+# Treat images as binary files to prevent text diffs and merge issues
